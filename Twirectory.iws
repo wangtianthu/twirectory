@@ -14,7 +14,12 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="WARN" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14343a2a-0fe7-4dc9-be77-7509a865c229" name="Default" comment="" />
+    <list default="true" id="14343a2a-0fe7-4dc9-be77-7509a865c229" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twirectory.ipr" afterPath="$PROJECT_DIR$/Twirectory.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twirectory.iws" afterPath="$PROJECT_DIR$/Twirectory.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twirectory.iml" afterPath="$PROJECT_DIR$/twirectory.iml" />
+    </list>
     <ignored path="Twirectory.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,10 +114,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/wangtian/twirectory/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="32" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.50729924" vertical-offset="324" max-vertical-offset="1246">
+            <state line="43" column="32" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1246">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,10 +167,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="38" selection-start="398" selection-end="398" vertical-scroll-proportion="-4.148148" vertical-offset="0" max-vertical-offset="336">
+            <state line="18" column="23" selection-start="714" selection-end="714" vertical-scroll-proportion="0.5060241" vertical-offset="0" max-vertical-offset="498">
               <folding />
             </state>
           </provider>
@@ -191,6 +196,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -356,7 +364,7 @@
     <property name="recentsLimit" value="5" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jchardet-1.0.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="OverrideImplement.combined" value="true" />
@@ -525,7 +533,7 @@
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
@@ -570,7 +578,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1025,14 +1033,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+    <entry file="file://$USER_HOME$/android/adt-bundle-mac-x86_64-20131030/sdk/sources/android-18/android/view/LayoutInflater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="38" selection-start="398" selection-end="398" vertical-scroll-proportion="-4.148148" vertical-offset="0" max-vertical-offset="336">
+        <state line="351" column="16" selection-start="13348" selection-end="13348" vertical-scroll-proportion="0.0" vertical-offset="4122" max-vertical-offset="12656">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/wangtian/twirectory/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="32" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1246">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/dir_entry.xml">
@@ -1055,20 +1069,14 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/android/adt-bundle-mac-x86_64-20131030/sdk/sources/android-18/android/view/LayoutInflater.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="351" column="16" selection-start="13348" selection-end="13348" vertical-scroll-proportion="0.0" vertical-offset="4122" max-vertical-offset="12656">
+        <state line="18" column="23" selection-start="714" selection-end="714" vertical-scroll-proportion="0.5060241" vertical-offset="0" max-vertical-offset="498">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/wangtian/twirectory/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="32" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.50729924" vertical-offset="324" max-vertical-offset="1246">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
   </component>
